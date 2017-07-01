@@ -1,4 +1,5 @@
-## FizzBuzz
+
+# FizzBuzz
 
 This is an introduction to Test Driven Development (TDD) by the way of solving a classic programming problem FizzBuzz
 We use RSpec is a testing tool for the Ruby programming language.
